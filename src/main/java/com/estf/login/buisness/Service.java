@@ -1,6 +1,6 @@
-package com.estf.login.prepexam.buisness;
+package com.estf.login.buisness;
 
-import com.estf.login.prepexam.models.User;
+import com.estf.login.models.User;
 
 import java.util.List;
 

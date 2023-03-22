@@ -1,4 +1,4 @@
-package com.estf.login.prepexam.controllers;
+package com.estf.login.controllers;
 
 import jakarta.servlet.*;
 import jakarta.servlet.http.*;

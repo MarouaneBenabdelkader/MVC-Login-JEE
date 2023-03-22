@@ -1,4 +1,4 @@
-package com.estf.login.prepexam.models;
+package com.estf.login.models;
 
 import java.util.List;
 

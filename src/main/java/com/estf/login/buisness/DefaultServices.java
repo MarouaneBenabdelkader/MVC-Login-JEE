@@ -1,8 +1,8 @@
-package com.estf.login.prepexam.buisness;
+package com.estf.login.buisness;
 
-import com.estf.login.prepexam.dao.UserDao;
-import com.estf.login.prepexam.dao.UserDaoMemory;
-import com.estf.login.prepexam.models.User;
+import com.estf.login.dao.UserDao;
+import com.estf.login.dao.UserDaoMemory;
+import com.estf.login.models.User;
 
 import java.util.List;
 

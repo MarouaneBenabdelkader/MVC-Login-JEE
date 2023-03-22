@@ -1,6 +1,6 @@
-package com.estf.login.prepexam.dao;
+package com.estf.login.dao;
 
-import com.estf.login.prepexam.models.User;
+import com.estf.login.models.User;
 
 import java.util.List;
 

@@ -1,14 +1,13 @@
-package com.estf.login.prepexam.controllers;
+package com.estf.login.controllers;
 
-import com.estf.login.prepexam.buisness.DefaultServices;
-import com.estf.login.prepexam.buisness.Service;
-import com.estf.login.prepexam.models.User;
+import com.estf.login.buisness.DefaultServices;
+import com.estf.login.buisness.Service;
+import com.estf.login.models.User;
 import jakarta.servlet.*;
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
 
 import java.io.IOException;
-import java.util.List;
 
 @WebServlet("/login")
 public class LoginServlet extends HttpServlet {
